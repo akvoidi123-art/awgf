@@ -1,0 +1,7 @@
+{
+  "key.category.areaminer.main": "AreaMiner",
+  "key.areaminer.toggle": "Старт/стоп автокопания",
+  "key.areaminer.replace_toggle": "Старт/стоп замены блоков",
+  "key.areaminer.set_target": "Заменяемый блок (из руки)",
+  "key.areaminer.set_replacement": "Блок для замены (из руки)"
+}

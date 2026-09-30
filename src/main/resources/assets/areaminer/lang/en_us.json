@@ -1,0 +1,7 @@
+{
+  "key.category.areaminer.main": "AreaMiner",
+  "key.areaminer.toggle": "Start/stop auto-mining",
+  "key.areaminer.replace_toggle": "Start/stop block replace",
+  "key.areaminer.set_target": "Set target block (from hand)",
+  "key.areaminer.set_replacement": "Set replacement block (from hand)"
+}
